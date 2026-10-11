@@ -33,6 +33,9 @@
       <a href="https://expense-auditor-two.vercel.app"><b>Live demo →</b></a>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="45%" valign="top">
       <h3><a href="https://github.com/sohin-2005/Lextract">Lextract</a></h3>
@@ -48,6 +51,9 @@
       <a href="https://lextract-bay.vercel.app"><img src="assets/shots/lextract.png" width="100%" alt="Lextract dashboard"></a>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="55%">
       <a href="https://fettle-three.vercel.app"><img src="assets/shots/fettle.png" width="100%" alt="Fettle landing page with live recovery map"></a>
