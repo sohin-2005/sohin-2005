@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="1200" height="350" role="img" aria-label="Terminal: whoami — Sohin, CS undergrad at MEC Kochi building full-stack and applied AI. Interests: machine learning, data analytics, fintech, generative AI, LLMs. Offline: badminton and fitness training.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="1200" height="350" role="img" aria-label="Terminal: whoami — Sohin, CS undergrad at MEC Kochi, software engineering intern at Taxor. Interests: machine learning, data analytics, fintech, generative AI, LLMs. Offline: badminton and fitness training.">
   <defs>
     <clipPath id="c1"><rect x="72" y="70" height="30" width="0"><animate attributeName="width" from="0" to="120" begin="0.4s" dur="0.6s" fill="freeze"/></rect></clipPath>
     <clipPath id="c2"><rect x="72" y="144" height="30" width="0"><animate attributeName="width" from="0" to="260" begin="2s" dur="0.9s" fill="freeze"/></rect></clipPath>
@@ -15,7 +15,7 @@
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">
     <text x="40" y="92" fill="#7ee787">❯</text>
     <text x="72" y="92" fill="#f0f6fc" clip-path="url(#c1)">whoami</text>
-    <text x="40" y="122" fill="#c9d1d9" opacity="0">sohin — cs undergrad @ MEC Kochi, building full-stack + applied AI
+    <text x="40" y="122" fill="#c9d1d9" opacity="0">sohin — cs undergrad @ MEC Kochi · software engineering intern @ Taxor
       <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.25s" fill="freeze"/>
     </text>
 

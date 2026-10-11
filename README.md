@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="whoami: Sohin, CS undergrad at MEC Kochi building full-stack and applied AI. Interests: machine learning, data analytics, fintech, generative AI, LLMs. Offline: badminton and fitness training.">
+  <img src="assets/terminal.svg" width="100%" alt="whoami: Sohin, CS undergrad at MEC Kochi, software engineering intern at Taxor. Interests: machine learning, data analytics, fintech, generative AI, LLMs. Offline: badminton and fitness training.">
 </p>
 
 <br>
