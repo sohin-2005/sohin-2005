@@ -8,13 +8,20 @@
   <a href="mailto:sohinsanthosh.mec@gmail.com"><img src="assets/badges/email-lg.svg" alt="Email"></a>
 </p>
 
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="whoami: Sohin, CS undergrad at MEC Kochi building full-stack and applied AI. Interests: machine learning, data analytics, fintech, generative AI, LLMs. Offline: badminton and fitness training.">
+</p>
+
 <br>
 
-<h2 align="center">✳ Projects</h2>
+<h2 align="center">✳ Featured</h2>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%">
+      <a href="https://expense-auditor-two.vercel.app"><img src="assets/shots/audixa.png" width="100%" alt="Audixa landing page"></a>
+    </td>
+    <td width="45%" valign="top">
       <h3><a href="https://github.com/sohin-2005/expense-auditor">Audixa</a></h3>
       <sup><code>AI EXPENSE PLATFORM</code></sup>
       <p>Turns a company policy PDF into an engine that approves, flags, or rejects receipts — every verdict with its reason and the policy snippet behind it.</p>
@@ -25,7 +32,9 @@
       <br><br>
       <a href="https://expense-auditor-two.vercel.app"><b>Live demo →</b></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="45%" valign="top">
       <h3><a href="https://github.com/sohin-2005/Lextract">Lextract</a></h3>
       <sup><code>VISION-LLM BENCHMARK</code></sup>
       <p>Extracts accounting data from handwritten Indian bills with several vision LLMs, then scores each model field by field against human ground truth.</p>
@@ -35,9 +44,15 @@
       <br><br>
       <a href="https://lextract-bay.vercel.app"><b>Live demo →</b></a>
     </td>
+    <td width="55%">
+      <a href="https://lextract-bay.vercel.app"><img src="assets/shots/lextract.png" width="100%" alt="Lextract dashboard"></a>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%">
+      <a href="https://fettle-three.vercel.app"><img src="assets/shots/fettle.png" width="100%" alt="Fettle landing page with live recovery map"></a>
+    </td>
+    <td width="45%" valign="top">
       <h3><a href="https://github.com/sohin-2005/Fettle">Fettle</a></h3>
       <sup><code>RECOVERY-AWARE WORKOUT PLANNER</code></sup>
       <p>Log what you trained and watch an interactive SVG body map colour-code each muscle's recovery, then get told what to train today.</p>
@@ -47,6 +62,15 @@
       <br><br>
       <a href="https://fettle-three.vercel.app"><b>Live demo →</b></a>
     </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">✳ More projects</h2>
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohin-2005/financial-bubble-detection-system">Bubble Detection</a></h3>
       <sup><code>FINANCIAL ML SYSTEM</code></sup>
@@ -55,8 +79,6 @@
       <img src="assets/badges/finbert-sm.svg" alt="FinBERT">
       <img src="assets/badges/ml-ensembles-sm.svg" alt="ML ensembles">
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohin-2005/Vibecheck">Vibecheck</a></h3>
       <sup><code>ANALYTICS FOR AI-ASSISTED CODING</code></sup>
@@ -64,6 +86,8 @@
       <img src="assets/badges/python-sm.svg" alt="Python">
       <img src="assets/badges/local-first-sm.svg" alt="Local-first">
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sohin-2005/FestLoop">FestLoop</a></h3>
       <sup><code>CAMPUS EVENTS PLATFORM</code></sup>
@@ -72,12 +96,10 @@
       <img src="assets/badges/tailwind-css-sm.svg" alt="Tailwind CSS">
       <img src="assets/badges/alpine-js-sm.svg" alt="Alpine.js">
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/sohin-2005/Tripwire">Tripwire</a> &nbsp;<img src="assets/badges/in-progress-sm.svg" alt="in progress"></h3>
       <sup><code>AGENT EVALUATION</code></sup>
-      <p>Can a cheap detector catch coding agents that fake success? Detectors for weakened tests, hardcoded answers, and false "it passes" claims, evaluated on ImpossibleBench and real sessions.</p>
+      <p>Can a cheap detector catch coding agents that fake success? Detectors for weakened tests, hardcoded answers, and false "it passes" claims.</p>
     </td>
   </tr>
 </table>
